@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="nuvem_de_som",
-    version="0.0.1a1",
+    version="0.0.1a2",
     description="search soundcloud",
     license="",
     author="JarbasAi",
